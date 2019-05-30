@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>ak/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>98</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>915</ColumnWidth1><ColumnWidth2>244</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+      <TerminalIO/>
+    <Debug-Log/></Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-31761-17933</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>ak</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-5852-18213</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-25549-4485</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>K:\AK\AK PROJEKT\ak\portyLcd.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>K:\AK\AK PROJEKT\ak\lcd.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>K:\AK\AK PROJEKT\ak\lcd.c</Filename><XPos>0</XPos><YPos>2</YPos><SelStart>1939</SelStart><SelEnd>1939</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>K:\AK\AK PROJEKT\ak\uart.c</Filename><XPos>0</XPos><YPos>15</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>K:\AK\AK PROJEKT\ak\portyUart.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Users\student\Desktop\ak\lcd.c</Filename><XPos>0</XPos><YPos>79</YPos><SelStart>2505</SelStart><SelEnd>2505</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>K:\AK\AK PROJEKT\ak\main.c</Filename><XPos>0</XPos><YPos>15</YPos><SelStart>0</SelStart><SelEnd>4303</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>K:\AK\AK PROJEKT\ak\buzzer.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>510</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>K:\AK\AK PROJEKT\ak\buzzer.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>118</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>K:\AK\AK PROJEKT\ak\max.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>742</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>K:\AK\AK PROJEKT\ak\game.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>4643</SelEnd></Tab><ActiveTab>10</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>K:\AK\AK PROJEKT\ak\game.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>9</SelStart><SelEnd>9</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>K:\AK\AK PROJEKT\ak\max.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01130568><key>iaridepm.enu1</key></Toolbar-01130568></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>715</Bottom><Right>172</Right><x>-2</x><y>-2</y><xscreen>48</xscreen><yscreen>194</yscreen><sizeHorzCX>37500</sizeHorzCX><sizeHorzCY>203782</sizeHorzCY><sizeVertCX>135938</sizeVertCX><sizeVertCY>753151</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>192</Bottom><Right>1282</Right><x>-2</x><y>-2</y><xscreen>1284</xscreen><yscreen>194</yscreen><sizeHorzCX>1003125</sizeHorzCX><sizeHorzCY>203782</sizeHorzCY><sizeVertCX>37500</sizeVertCX><sizeVertCY>203782</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
